@@ -4,6 +4,8 @@
 import discord
 from discord.ext import commands, tasks
 
+#determiner le préfixe du bot
+bot = commands.Bot(command_prefix = "!", description = "Bot de toto49")
 
 
 
