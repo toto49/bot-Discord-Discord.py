@@ -4,3 +4,17 @@
 import discord
 from discord.ext import commands, tasks
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+bot.run("votre token")
