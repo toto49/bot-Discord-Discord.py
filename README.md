@@ -10,3 +10,5 @@ Une fois installé vous pouvez à présent suivre les étapes suivantes
 ### 3. Installer la librairie discord.py
 La Librarie discord.py nous servira à créer les commandes du bot. Elle est donc très importante pour la suite
 ### lien de la documentation https://discordpy.readthedocs.io/en/stable/intro.html
+
+## 2. Créer votre bot discord 
