@@ -12,3 +12,7 @@ La Librarie discord.py nous servira à créer les commandes du bot. Elle est don
 ### lien de la documentation https://discordpy.readthedocs.io/en/stable/intro.html
 
 ## 2. Créer votre bot discord 
+
+### 1. Discord devellopeur
+
+https://discord.com/developers/applications
