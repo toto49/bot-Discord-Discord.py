@@ -10,3 +10,4 @@ async def github(ctx):
     # ajoute un sous titre et une description
     await ctx.send(embed = embed)
     # envoie l'embed
+    await message.delete()
